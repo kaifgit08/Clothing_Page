@@ -1,0 +1,186 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.title h4{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-right: -50px;
+    width: 60%;
+    padding: 10px 0px;
+}
+h4{
+font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//genzclothings.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Z2VuemNsb3RoaW5nei5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=Z2VuemNsb3RoaW5ncy5jb20&hmac=b82c3cf866db7f3f05aab719fd29f3588c26c29a4d51e4fdbc4dda321fcb0e18") format("woff2"),
+       url("//genzclothings.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Z2VuemNsb3RoaW5nei5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=Z2VuemNsb3RoaW5ncy5jb20&hmac=023de7902572e118b9e62994f499fa850e9790c790ab76f6798fc4038d01db60") format("woff");
+    opacity: 0.;
+}
+.box{
+    display: flexbox;
+}
+.box img{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin: right 0px;
+    padding: 10px 0px; 
+}
+.sec{
+    font-family: Assistant;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("//genzclothings.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Z2VuemNsb3RoaW5nei5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=Z2VuemNsb3RoaW5ncy5jb20&hmac=b82c3cf866db7f3f05aab719fd29f3588c26c29a4d51e4fdbc4dda321fcb0e18") format("woff2"),
+         url("//genzclothings.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Z2VuemNsb3RoaW5nei5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=Z2VuemNsb3RoaW5ncy5jb20&hmac=023de7902572e118b9e62994f499fa850e9790c790ab76f6798fc4038d01db60") format("woff");
+    opacity: 0.6;
+}
+.search{
+    opacity: 0.7;
+    margin-left: 78em;
+}
+.mod1{
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 1px 500px; 
+    
+}
+.f1{
+    font-size: xx-large;
+    font-display: inherit;
+    font-stretch: narrower;
+    margin-left: -100px;
+    padding-left: -100px;
+    position: absolute;
+    align-items: center;
+    
+}
+.b1{
+    
+    outline-offset: 0cqmax;
+    outline: 2px double  rgb(0, 0, 0);
+    transition: cubic-bezier(1, 0, 0, 1);
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+.b1:hover{
+    outline-offset: 0.2em;
+}
+.f2{
+    font-size: xx-large;
+    font-display: inherit;
+    font-stretch: narrower;
+    padding: 400px 0px 100px;
+    margin-left: 10px;
+    padding-left: 500px;
+    position: absolute;
+    align-items: center;
+}
+.b2{
+    outline-offset: 0cqmax;
+    outline: 2px double  rgb(0, 0, 0);
+    transition: cubic-bezier(1, 0, 0, 1);
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+.b2:hover{
+    outline-offset: 0.2em;
+}
+.mod3{
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 1px 500px; 
+}
+.f3{
+    font-size: xx-large;
+    margin-left: -100px;
+    padding-left: -100px;
+    font-weight: lighter;
+    color: black;  
+}
+.fo3{
+    margin-right: 100px;
+    padding: 400px 0px 100px;
+    margin-left:  0px;
+    padding-left: 0px;
+   
+}
+.b3{
+    outline-offset: 0cqmax;
+    outline: 2px double  rgb(0, 0, 0);
+    transition: cubic-bezier(1, 0, 0, 1);
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+.b3:hover{
+    outline-offset: 0.2em;
+}
+.l2{
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 100px 600px;
+    margin-top: -923px;   
+}
+.l1{
+    margin-right: 20px;
+    margin-left: 100px;
+}
+.lb1{
+    margin-right: -100px;
+    margin-left: 259px;
+    position: relative;
+    top: 4em;
+}
+.lb2{
+    margin-left: 900px;
+    position: relative;
+    top: -3em;
+}
+.lb1{
+    outline-offset: 0cqmax;
+    outline: 2px double  rgb(0, 0, 0);
+    transition: cubic-bezier(1, 0, 0, 1);
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+.lb1:hover{
+    outline-offset: 0.2em;
+}
+.lb2{
+    outline-offset: 0cqmax;
+    outline: 2px double  rgb(0, 0, 0);
+    transition: cubic-bezier(1, 0, 0, 1);
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+.lb2:hover{
+    outline-offset: 0.2em;
+}
+.Cont{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 30px;
+    margin-right: -90px;
+}
+.p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: lower-roman;
+    padding: 100px;
+}
+.p2{
+    padding: 100px;
+    margin-left: -100px;
+}
+.foot{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+.lb1:hover{
+    visibility: inherit;
+    shape-rendering: crispEdges;
+}
